@@ -1,0 +1,5 @@
+berarti loginnya tuh kan udh ada dashboard, disitu cuma 
+
+--dashboard controller gak perlu berarti
+-- nama outlet pake auth
+--- berarti cuma bedain dashboard disitu
